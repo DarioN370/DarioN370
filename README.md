@@ -1,11 +1,6 @@
 ### Oii, Eu sou o Dário 😊👋
 
-- 🔭 I’m currently working in the auction area
-- 🌱 I’m currently learning web development like JavaScript 
-- 👯 I’m looking to collaborate on  web projects
-- 🤔 I’m looking for help with DataBase
-- 😄 Pronouns: him/his
-- ⚡ Fun fact: I'm the biggest fan of music in the world
+##
   
 <div>
     <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=DarioN370&bg_color=000000&color=ffffff&line=5d008f&point=ffffff&area=true&hide_border=true">
