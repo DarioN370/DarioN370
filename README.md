@@ -6,6 +6,11 @@
 - 🤔 I’m looking for help with DataBase
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: I'm the biggest fan of music in the world
+  
+<div>
+    <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=DarioN370&bg_color=000000&color=ffffff&line=5d008f&point=ffffff&area=true&hide_border=true">
+  
+</div>
 
 <div>
   <a href="https://github.com/DarioN370"> 
@@ -38,3 +43,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarioN370/DarioN370/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
+
