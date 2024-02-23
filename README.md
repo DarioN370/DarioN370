@@ -1,8 +1,8 @@
-### Oii, Eu sou o Dário 😊👋
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤOii, Eu sou o Dário 😊👋
 #
   
 <div>
-    <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=DarioN370&bg_color=000000&color=ffffff&line=5d008f&point=ffffff&area=true&hide_border=true">
+    <img height="375em" src="https://github-readme-activity-graph.vercel.app/graph?username=DarioN370&bg_color=151515&color=ffffff&line=4f4f4f&point=ffffff&area=true&hide_border=true">
   
 </div>
 
