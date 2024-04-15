@@ -29,7 +29,7 @@
 
 ##
 
-<div style="display: flex" style="align-itens: center">
+<div style="display: flex align-itens: center">
   <a href="https://github.com/DarioN370"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarioN370&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioN370&demo&theme=dark"
