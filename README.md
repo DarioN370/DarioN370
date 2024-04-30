@@ -16,7 +16,7 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="icon-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <img align="center" alt="icon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+   <img align="center" alt="icon-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
   ##
