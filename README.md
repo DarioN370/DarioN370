@@ -38,7 +38,7 @@
 <div>
   <a href="https://github.com/DarioN370"> 
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DarioN370&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioN370&demo&theme=dark">
+<!--     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioN370&demo&theme=dark"> -->
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioN370&layout=compact&theme=dark">
    
   </a>
