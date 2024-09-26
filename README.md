@@ -10,7 +10,7 @@
 </picture>
 </div>
 
-<img align="center" alt="faça o que é bom" height="400em" width="100%" src="https://unsplash.com/pt-br/fotografias/filme-matrix-ainda-iar-afB0QQw">
+##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
