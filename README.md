@@ -52,7 +52,8 @@
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![NODE JS](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=node&labelColor=0D1117)&nbsp;
+![N8N](https://img.shields.io/badge/-n8n-0D1117?style=for-the-badge&logo=n9n&labelColor=0D1117)&nbsp;
 
 <!--
 <div align="center">
